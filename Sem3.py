@@ -48,18 +48,18 @@ window.title("3rd Sem CGPA Calculator")
 
 # Define subject codes and credits
 subject_codes = [
-    "MA3354",
-    "CS3351",
-    "AD3351",
     "AD3301",
-    "AL3391",
-    "AD3391",
-    "AD3381",
     "AD3311",
-    "GE3361"
+    "AD3351",
+    "AD3381",
+    "AD3391",
+    "AL3391",
+    "CS3351",
+    "GE3361",
+    "MA3354",
 ]
 
-subject_credits = [4, 4, 4, 4, 3, 3, 1.5, 1.5, 1]
+subject_credits = [4, 1.5, 4, 1.5, 3, 3, 4, 1, 4]
 
 grade_labels = []
 grade_entries = []
