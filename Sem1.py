@@ -80,3 +80,5 @@ calculate_button.pack()
 
 # Start the GUI main loop
 window.mainloop()
+
+#I have planned to make this using Gradio
