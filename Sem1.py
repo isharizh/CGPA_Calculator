@@ -78,6 +78,7 @@ for i in range(8):
 
 calculate_button.pack()
 
+#Change the Credits according to the needs
 # Start the GUI main loop
 window.mainloop()
 
