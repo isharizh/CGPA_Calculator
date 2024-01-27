@@ -1,6 +1,6 @@
 import tkinter as tk
 
-# Function to calculate CGPA
+
 def calculate_cgpa():
     # Define the grade points for each grade
     grade_points = {
